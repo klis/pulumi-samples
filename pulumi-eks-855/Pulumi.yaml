@@ -1,0 +1,3 @@
+name: pulumi-eks-855
+runtime: nodejs
+description: A minimal AWS TypeScript Pulumi program
